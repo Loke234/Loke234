@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Loke
 - 👀 I’m interested in learning new tools and technologies.
-- 🌱 I’m currently learning DevOps and AWS
 - 📫 reach me logesh234@gmail.com
 
 <!---
